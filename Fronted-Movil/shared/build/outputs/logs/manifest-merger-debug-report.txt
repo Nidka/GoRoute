@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10102685731207354997.xml:2:13-83
+INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10102685731207354997.xml:2:13-83
+	package
+		INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10102685731207354997.xml
+	xmlns:android
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10102685731207354997.xml:2:23-81
+uses-sdk
+INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10102685731207354997.xml reason: use-sdk injection requested
+INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10102685731207354997.xml
+INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10102685731207354997.xml
+	android:targetSdkVersion
+		INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10102685731207354997.xml
+	android:minSdkVersion
+		INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10102685731207354997.xml

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">635908624620</string>
+    <string name="google_api_key" translatable="false">AIzaSyDFuh1X7nWlE6MLIS9Ti-YWSTBaIoe2mSI</string>
+    <string name="google_app_id" translatable="false">1:635908624620:android:132b96d6044124c4e595c9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDFuh1X7nWlE6MLIS9Ti-YWSTBaIoe2mSI</string>
+    <string name="google_storage_bucket" translatable="false">routeupn.firebasestorage.app</string>
+    <string name="project_id" translatable="false">routeupn</string>
+    <style name="Theme.Rutas" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.helkore.rutas.android.androidApp-mergeDebugResources-82:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/helcorp/.gradle/caches/8.9/transforms/dc1996c28d3e5c9ae259cb5bc939cc8f/transformed/appcompat-1.7.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,14",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,1016",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,1100"
+                    }
+                },
+                {
+                    "source": "/Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "379"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "1011"
+                    }
+                }
+            ]
+        }
+    ]
+}

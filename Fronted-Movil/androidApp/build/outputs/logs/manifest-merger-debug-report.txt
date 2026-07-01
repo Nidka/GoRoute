@@ -1,0 +1,1173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [:shared] /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/e57605fc6f75205dbe0bcc5cda55b5ed/transformed/navigation-common-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/7498f1f08f8edbb2fc6de64dc2e6ce9f/transformed/navigation-runtime-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/7570b96d7ca21f31b2f455d902623c45/transformed/navigation-common-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/9b34beff9bb06fba3f51e7c82fc0a3ed/transformed/navigation-runtime-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/314104ac920afadad31390e247af57fe/transformed/navigation-compose-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [io.insert-koin:koin-androidx-compose:4.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/86ef649c14eebd71e08bb1ff2526ab1a/transformed/koin-androidx-compose-4.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.insert-koin:koin-android:4.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/da2c3bc74a01f0ff9c240237ca14dd0f/transformed/koin-android-4.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.camera:camera-video:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/a569f9426900b1eec0369e8e354022ff/transformed/camera-video-1.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-core:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/dd75f3dbfe07559c4d9ac32c0ec04b5e/transformed/camera-core-1.4.2/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-lifecycle:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/7818ff9b56ee27b1fd09e719a32ad220/transformed/camera-lifecycle-1.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/e965fec76b32525b27c0cf3192db4c15/transformed/camera-camera2-1.4.2/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-view:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/a633356b0f3a22f5a635f4c5844a588e/transformed/camera-view-1.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/04728a803d7792c0bc0a5bf1b24041b3/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:barcode-scanning:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/c6cc825f396119c0028620fef89a2e2c/transformed/barcode-scanning-17.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/0633a54f8bdbd5e3c3104906eaebe2bf/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/ec789e5a5bede6ab37eaf665f6d1f900/transformed/barcode-scanning-common-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/410a5a3ad27d1de1395599d14e514804/transformed/vision-common-17.3.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/dc1996c28d3e5c9ae259cb5bc939cc8f/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.3] /Users/helcorp/.gradle/caches/8.9/transforms/19b375efd99355e01cf64fc9097178da/transformed/fragment-ktx-1.8.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:21.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/13666bdafcb22c9e556c3cd20dcbe97f/transformed/play-services-location-21.3.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:17:1-66:12
+MERGED from [com.google.firebase:firebase-analytics:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/b6306def43f8b620c667f7053737d92b/transformed/firebase-analytics-23.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f3246c123105ced2eb97d9caf3f6801/transformed/play-services-measurement-sdk-23.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/e26216990934d7d3fe99f5db355803f5/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/eaaeb913cd308d467bf5abe9ef98ea36/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/helcorp/.gradle/caches/8.9/transforms/0e9853ef7c2664493360adf3453d3c37/transformed/recaptcha-18.6.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/0005bf1d4a69b88d69889fde8959a21e/transformed/integrity-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/57faee35089c79f265a1021efab889cd/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/251261fd9e7aaac04380ee2bdaa67810/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/ef75ebded72af73f01b0abab978d57cd/transformed/play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/helcorp/.gradle/caches/8.9/transforms/b21138cb093ac1cedacdad45e16ffc9f/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/eb5691de2dcbcc70c305bfebcbb6f334/transformed/play-services-base-18.9.0/AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/b4c6e97199ec9d0e2709e1254211bef3/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/a2f79a28ad3217143d05f5c5ec72ad00/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/fc4cb365cab3a260328b3e925e31434b/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/cdd90177fee560b5f856e83bfa0a12be/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/d27b6fc4aabd8021d72aa595b084f5ad/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/956c1c324513afaa545d9cfb1c713bec/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/2fbb5581e03b83d6f067e0bd436b9a6b/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/902d03d7c4530a0ee9a0cbb1185f07e1/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/1ad4ce292c89f7958feda6570594d7dc/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/22450a5bdd311bb863b8458ac9d8ce30/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/e56390e3926ab9ae12f5af122f8509d1/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/710f26fa3afd0763fbbae9b1c72508c6/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/7d159f7e6af48bd87c1300173e794784/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/f3d1754c3790bf9fd8daada5cfd92f44/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/f3cd4b06a6175e1f30ace7455b3ad9e3/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/9153d36e26d08b833b94f39f46a020fc/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/helcorp/.gradle/caches/8.9/transforms/5140b380fac60380678604a16f1b5cf2/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/helcorp/.gradle/caches/8.9/transforms/9ea0541f08d5d35fbeafa7f2ac9e5424/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/27c594ee0a148470749d255cdfece729/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/aedbf49da82deb080f5862aabad1eee5/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/e84a180c19c497c7bf4f3fe25e33ca31/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/helcorp/.gradle/caches/8.9/transforms/08dc5cc0fa0a2d12c9e82895f4750718/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/f92a752a758c8bb59bcf29a071bdf78e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/f7047757002051a38fe8f3822c87e3ee/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/6bb9bf3f5876372bf35b9cbb1f0fcd8e/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/7733810b84404903a4de1fae5b842ad4/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/67bb86c423e9834d64760a92933c1a3a/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/ba8707e902f72496e748fe8a2878cc86/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/4f264c9d14ace83a91056d32e9ea9ad8/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/9ab540a14b1ae5e04ecc2b3f845df23c/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/cfe424f30bcd9dbc0762652b1c4b9391/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/1932bb7190027d89875908e53e5faba3/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/helcorp/.gradle/caches/8.9/transforms/6b8baf45fef11838f0b347d53c28bbe5/transformed/ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/helcorp/.gradle/caches/8.9/transforms/1d708446c20e301662a797d65cf6982e/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:17:1-28:12
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/0f736743625d7929e4521ff56007fda4/transformed/core-bundle-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/770ec95bcf3367bcda841d64488a4e56/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/1e1fe603a92dda4a3f8f0a58ab3c2be8/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/0169d200f2502700780e58426d11436b/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/a76a3f7c4257406c01ab16450c2e97fd/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/c20f7a9f28446b0d7e0cc0449c15cb8d/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/baff3ec7a7ed6e7056c1c5ecbf79a7f5/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/5465cd6b433395d993b343599b6e06ce/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/d58b544bed967febc31377ce8c19c63c/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/60dba77798e689e94449e794b3ae4302/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/6ca8c0d5fa9ecd818f7c9f8cd31a1d18/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/9881d7b5edba6df2e4b518182c1c1420/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/0aa392f1d376bbe91e96c9a26421395c/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/c5ca06d90c9d6b5ae0dba8d8339fdbf8/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/6a18cfa47973e9e7ce5e0bb06865124f/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/793003f28bf2555dcbed992903525a64/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/a1dc329bca9ce26fbcb7ff24935ce27b/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/f54feea47d11e445e6e6dfc4950c1ca3/transformed/datastore-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/c812366e36ebc8bf1f2c6f6299279dd8/transformed/datastore-preferences-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/616dd3cc8593a93250a6e30cbe4ef624/transformed/datastore-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/e5da05af9a8d8273eecd7fb0fc1a077d/transformed/datastore-preferences-release/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/0d981718aaaad4df8d4b1308cb13364e/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/ac83d37d695d2f03f9c820f27ba1bf53/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/05e9a2b5a0d93e84bbc99ab9aaae50e4/transformed/vision-interfaces-16.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/83e8078cc9a7ce19d695e27168951769/transformed/firebase-installations-interop-17.3.0/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] /Users/helcorp/.gradle/caches/8.9/transforms/cc3fe9f6526566c6a31c0bb653d59538/transformed/play-services-tasks-18.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/60a618c91973df074b9a307b33e0c879/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/c1733bf447385ed5c942b1fc5a8c4723/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/8901abac5a43aed54d4efcde88128a67/transformed/play-services-measurement-base-23.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/4db1fb1704b15286299ddd2201521596/transformed/play-services-basement-18.9.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.8.3] /Users/helcorp/.gradle/caches/8.9/transforms/449cd7eb89a1c864f4a6a85ed9a3b989/transformed/fragment-1.8.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.3] /Users/helcorp/.gradle/caches/8.9/transforms/ac1103b40ff1c432c2e546a1a85e29b0/transformed/activity-1.9.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/helcorp/.gradle/caches/8.9/transforms/dbc750589f4910e93b041b4754a73a00/transformed/activity-ktx-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/helcorp/.gradle/caches/8.9/transforms/e8e3bca95196d084d291b13aa6e0ac1c/transformed/activity-compose-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/94f3d05ae3bf7304fd1c75b5340b5f4a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/7a0cfae3420df9c3494f309c3da919a9/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/bf4e515e4bdee82b9121d0aed567fcb4/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b984b78f922cc4a4ecc3c326e6101d5/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/a3b8908794d5b0752715060f65d593f3/transformed/googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/6204ab5efac3052a93634431b5e0174a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/accd7d850b4778af989ed4cfa9153466/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/885b609f3eb829fcbb28ac8892f84512/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/3c8a67fb51d3c9793e9a40993d34f04e/transformed/firebase-components-19.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/f70cd6aaf012effdcd312b842a58e9e7/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/da09063053b5ba93230c39cc4b495d82/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/faff7375f3ca9e1b7a411d1312a32fe4/transformed/transport-api-3.1.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/5ebb7873f6c34ab3aa847c011edce300/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/helcorp/.gradle/caches/8.9/transforms/6e150218d08e3f983cce4c8a18719781/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/a82a901d52ca8663c370e6e316d62300/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/e3f04653f575a930d270fc943617cf56/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/52fa911082c9fd479381842ac1a286b0/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/helcorp/.gradle/caches/8.9/transforms/4844b9a6883871f638078cdc2f0b8e7f/transformed/image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/helcorp/.gradle/caches/8.9/transforms/23e712f5944806077c8fff52d6d9a5c6/transformed/core-common-2.0.3/AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/helcorp/.gradle/caches/8.9/transforms/0e9853ef7c2664493360adf3453d3c37/transformed/recaptcha-18.6.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/helcorp/.gradle/caches/8.9/transforms/0e9853ef7c2664493360adf3453d3c37/transformed/recaptcha-18.6.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/ac83d37d695d2f03f9c820f27ba1bf53/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/ac83d37d695d2f03f9c820f27ba1bf53/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:23:5-77
+MERGED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:7:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:10:5-85
+	android:required
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:10:58-82
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:10:19-57
+application
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:12:5-35:19
+INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:12:5-35:19
+MERGED from [io.insert-koin:koin-android:4.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/da2c3bc74a01f0ff9c240237ca14dd0f/transformed/koin-android-4.0.0/AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-android:4.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/da2c3bc74a01f0ff9c240237ca14dd0f/transformed/koin-android-4.0.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.camera:camera-core:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/dd75f3dbfe07559c4d9ac32c0ec04b5e/transformed/camera-core-1.4.2/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/dd75f3dbfe07559c4d9ac32c0ec04b5e/transformed/camera-core-1.4.2/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/e965fec76b32525b27c0cf3192db4c15/transformed/camera-camera2-1.4.2/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/e965fec76b32525b27c0cf3192db4c15/transformed/camera-camera2-1.4.2/AndroidManifest.xml:23:5-34:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/0633a54f8bdbd5e3c3104906eaebe2bf/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/0633a54f8bdbd5e3c3104906eaebe2bf/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/410a5a3ad27d1de1395599d14e514804/transformed/vision-common-17.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/410a5a3ad27d1de1395599d14e514804/transformed/vision-common-17.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.android.gms:play-services-location:21.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/13666bdafcb22c9e556c3cd20dcbe97f/transformed/play-services-location-21.3.0/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-location:21.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/13666bdafcb22c9e556c3cd20dcbe97f/transformed/play-services-location-21.3.0/AndroidManifest.xml:6:5-20
+MERGED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-analytics:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/b6306def43f8b620c667f7053737d92b/transformed/firebase-analytics-23.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/b6306def43f8b620c667f7053737d92b/transformed/firebase-analytics-23.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f3246c123105ced2eb97d9caf3f6801/transformed/play-services-measurement-sdk-23.2.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f3246c123105ced2eb97d9caf3f6801/transformed/play-services-measurement-sdk-23.2.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/0005bf1d4a69b88d69889fde8959a21e/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/0005bf1d4a69b88d69889fde8959a21e/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/57faee35089c79f265a1021efab889cd/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/57faee35089c79f265a1021efab889cd/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/251261fd9e7aaac04380ee2bdaa67810/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/251261fd9e7aaac04380ee2bdaa67810/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/ef75ebded72af73f01b0abab978d57cd/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/ef75ebded72af73f01b0abab978d57cd/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/eb5691de2dcbcc70c305bfebcbb6f334/transformed/play-services-base-18.9.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/eb5691de2dcbcc70c305bfebcbb6f334/transformed/play-services-base-18.9.0/AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/7d159f7e6af48bd87c1300173e794784/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/7d159f7e6af48bd87c1300173e794784/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/67bb86c423e9834d64760a92933c1a3a/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/67bb86c423e9834d64760a92933c1a3a/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/helcorp/.gradle/caches/8.9/transforms/1d708446c20e301662a797d65cf6982e/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/helcorp/.gradle/caches/8.9/transforms/1d708446c20e301662a797d65cf6982e/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/6ca8c0d5fa9ecd818f7c9f8cd31a1d18/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/6ca8c0d5fa9ecd818f7c9f8cd31a1d18/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/0d981718aaaad4df8d4b1308cb13364e/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/0d981718aaaad4df8d4b1308cb13364e/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] /Users/helcorp/.gradle/caches/8.9/transforms/cc3fe9f6526566c6a31c0bb653d59538/transformed/play-services-tasks-18.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] /Users/helcorp/.gradle/caches/8.9/transforms/cc3fe9f6526566c6a31c0bb653d59538/transformed/play-services-tasks-18.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/60a618c91973df074b9a307b33e0c879/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/60a618c91973df074b9a307b33e0c879/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/c1733bf447385ed5c942b1fc5a8c4723/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/c1733bf447385ed5c942b1fc5a8c4723/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/8901abac5a43aed54d4efcde88128a67/transformed/play-services-measurement-base-23.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/8901abac5a43aed54d4efcde88128a67/transformed/play-services-measurement-base-23.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/4db1fb1704b15286299ddd2201521596/transformed/play-services-basement-18.9.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/4db1fb1704b15286299ddd2201521596/transformed/play-services-basement-18.9.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/94f3d05ae3bf7304fd1c75b5340b5f4a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/94f3d05ae3bf7304fd1c75b5340b5f4a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/6204ab5efac3052a93634431b5e0174a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/6204ab5efac3052a93634431b5e0174a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/f70cd6aaf012effdcd312b842a58e9e7/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/f70cd6aaf012effdcd312b842a58e9e7/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/helcorp/.gradle/caches/8.9/transforms/4844b9a6883871f638078cdc2f0b8e7f/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/helcorp/.gradle/caches/8.9/transforms/4844b9a6883871f638078cdc2f0b8e7f/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/helcorp/.gradle/caches/8.9/transforms/23e712f5944806077c8fff52d6d9a5c6/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/helcorp/.gradle/caches/8.9/transforms/23e712f5944806077c8fff52d6d9a5c6/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:15:9-38
+	android:allowBackup
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:17:9-43
+	android:networkSecurityConfig
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:13:9-33
+activity#com.helkore.rutas.android.MainActivity
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:20:9-28:20
+	android:windowSoftInputMode
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:23:13-55
+	android:exported
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:26:27-74
+receiver#com.helkore.rutas.android.notification.BusArrivedReceiver
+ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml:33:13-60
+uses-sdk
+INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/e57605fc6f75205dbe0bcc5cda55b5ed/transformed/navigation-common-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/e57605fc6f75205dbe0bcc5cda55b5ed/transformed/navigation-common-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/7498f1f08f8edbb2fc6de64dc2e6ce9f/transformed/navigation-runtime-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/7498f1f08f8edbb2fc6de64dc2e6ce9f/transformed/navigation-runtime-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/7570b96d7ca21f31b2f455d902623c45/transformed/navigation-common-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/7570b96d7ca21f31b2f455d902623c45/transformed/navigation-common-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/9b34beff9bb06fba3f51e7c82fc0a3ed/transformed/navigation-runtime-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/9b34beff9bb06fba3f51e7c82fc0a3ed/transformed/navigation-runtime-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/314104ac920afadad31390e247af57fe/transformed/navigation-compose-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.4] /Users/helcorp/.gradle/caches/8.9/transforms/314104ac920afadad31390e247af57fe/transformed/navigation-compose-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-androidx-compose:4.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/86ef649c14eebd71e08bb1ff2526ab1a/transformed/koin-androidx-compose-4.0.0/AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-androidx-compose:4.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/86ef649c14eebd71e08bb1ff2526ab1a/transformed/koin-androidx-compose-4.0.0/AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android:4.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/da2c3bc74a01f0ff9c240237ca14dd0f/transformed/koin-android-4.0.0/AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android:4.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/da2c3bc74a01f0ff9c240237ca14dd0f/transformed/koin-android-4.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/a569f9426900b1eec0369e8e354022ff/transformed/camera-video-1.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/a569f9426900b1eec0369e8e354022ff/transformed/camera-video-1.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-core:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/dd75f3dbfe07559c4d9ac32c0ec04b5e/transformed/camera-core-1.4.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/dd75f3dbfe07559c4d9ac32c0ec04b5e/transformed/camera-core-1.4.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/7818ff9b56ee27b1fd09e719a32ad220/transformed/camera-lifecycle-1.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/7818ff9b56ee27b1fd09e719a32ad220/transformed/camera-lifecycle-1.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/e965fec76b32525b27c0cf3192db4c15/transformed/camera-camera2-1.4.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/e965fec76b32525b27c0cf3192db4c15/transformed/camera-camera2-1.4.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-view:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/a633356b0f3a22f5a635f4c5844a588e/transformed/camera-view-1.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/a633356b0f3a22f5a635f4c5844a588e/transformed/camera-view-1.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/04728a803d7792c0bc0a5bf1b24041b3/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/04728a803d7792c0bc0a5bf1b24041b3/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/c6cc825f396119c0028620fef89a2e2c/transformed/barcode-scanning-17.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/c6cc825f396119c0028620fef89a2e2c/transformed/barcode-scanning-17.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/0633a54f8bdbd5e3c3104906eaebe2bf/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/0633a54f8bdbd5e3c3104906eaebe2bf/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/ec789e5a5bede6ab37eaf665f6d1f900/transformed/barcode-scanning-common-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/ec789e5a5bede6ab37eaf665f6d1f900/transformed/barcode-scanning-common-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/410a5a3ad27d1de1395599d14e514804/transformed/vision-common-17.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/410a5a3ad27d1de1395599d14e514804/transformed/vision-common-17.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:6:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/dc1996c28d3e5c9ae259cb5bc939cc8f/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/dc1996c28d3e5c9ae259cb5bc939cc8f/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.fragment:fragment-ktx:1.8.3] /Users/helcorp/.gradle/caches/8.9/transforms/19b375efd99355e01cf64fc9097178da/transformed/fragment-ktx-1.8.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.3] /Users/helcorp/.gradle/caches/8.9/transforms/19b375efd99355e01cf64fc9097178da/transformed/fragment-ktx-1.8.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/13666bdafcb22c9e556c3cd20dcbe97f/transformed/play-services-location-21.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-location:21.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/13666bdafcb22c9e556c3cd20dcbe97f/transformed/play-services-location-21.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/b6306def43f8b620c667f7053737d92b/transformed/firebase-analytics-23.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/b6306def43f8b620c667f7053737d92b/transformed/firebase-analytics-23.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f3246c123105ced2eb97d9caf3f6801/transformed/play-services-measurement-sdk-23.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f3246c123105ced2eb97d9caf3f6801/transformed/play-services-measurement-sdk-23.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/e26216990934d7d3fe99f5db355803f5/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/e26216990934d7d3fe99f5db355803f5/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/eaaeb913cd308d467bf5abe9ef98ea36/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/eaaeb913cd308d467bf5abe9ef98ea36/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/helcorp/.gradle/caches/8.9/transforms/0e9853ef7c2664493360adf3453d3c37/transformed/recaptcha-18.6.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/helcorp/.gradle/caches/8.9/transforms/0e9853ef7c2664493360adf3453d3c37/transformed/recaptcha-18.6.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/0005bf1d4a69b88d69889fde8959a21e/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/0005bf1d4a69b88d69889fde8959a21e/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/57faee35089c79f265a1021efab889cd/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/57faee35089c79f265a1021efab889cd/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/251261fd9e7aaac04380ee2bdaa67810/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/251261fd9e7aaac04380ee2bdaa67810/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/ef75ebded72af73f01b0abab978d57cd/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/ef75ebded72af73f01b0abab978d57cd/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/helcorp/.gradle/caches/8.9/transforms/b21138cb093ac1cedacdad45e16ffc9f/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/helcorp/.gradle/caches/8.9/transforms/b21138cb093ac1cedacdad45e16ffc9f/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/eb5691de2dcbcc70c305bfebcbb6f334/transformed/play-services-base-18.9.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/eb5691de2dcbcc70c305bfebcbb6f334/transformed/play-services-base-18.9.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/b4c6e97199ec9d0e2709e1254211bef3/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/b4c6e97199ec9d0e2709e1254211bef3/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/a2f79a28ad3217143d05f5c5ec72ad00/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/a2f79a28ad3217143d05f5c5ec72ad00/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/fc4cb365cab3a260328b3e925e31434b/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/fc4cb365cab3a260328b3e925e31434b/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/cdd90177fee560b5f856e83bfa0a12be/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/cdd90177fee560b5f856e83bfa0a12be/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/d27b6fc4aabd8021d72aa595b084f5ad/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/d27b6fc4aabd8021d72aa595b084f5ad/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/956c1c324513afaa545d9cfb1c713bec/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/956c1c324513afaa545d9cfb1c713bec/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/2fbb5581e03b83d6f067e0bd436b9a6b/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/2fbb5581e03b83d6f067e0bd436b9a6b/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/902d03d7c4530a0ee9a0cbb1185f07e1/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/902d03d7c4530a0ee9a0cbb1185f07e1/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/1ad4ce292c89f7958feda6570594d7dc/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/1ad4ce292c89f7958feda6570594d7dc/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/22450a5bdd311bb863b8458ac9d8ce30/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/22450a5bdd311bb863b8458ac9d8ce30/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/e56390e3926ab9ae12f5af122f8509d1/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/e56390e3926ab9ae12f5af122f8509d1/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/710f26fa3afd0763fbbae9b1c72508c6/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/710f26fa3afd0763fbbae9b1c72508c6/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/7d159f7e6af48bd87c1300173e794784/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/7d159f7e6af48bd87c1300173e794784/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/f3d1754c3790bf9fd8daada5cfd92f44/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/f3d1754c3790bf9fd8daada5cfd92f44/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/f3cd4b06a6175e1f30ace7455b3ad9e3/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/f3cd4b06a6175e1f30ace7455b3ad9e3/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/9153d36e26d08b833b94f39f46a020fc/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/9153d36e26d08b833b94f39f46a020fc/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/helcorp/.gradle/caches/8.9/transforms/5140b380fac60380678604a16f1b5cf2/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/helcorp/.gradle/caches/8.9/transforms/5140b380fac60380678604a16f1b5cf2/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/helcorp/.gradle/caches/8.9/transforms/9ea0541f08d5d35fbeafa7f2ac9e5424/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/helcorp/.gradle/caches/8.9/transforms/9ea0541f08d5d35fbeafa7f2ac9e5424/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/27c594ee0a148470749d255cdfece729/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/27c594ee0a148470749d255cdfece729/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/aedbf49da82deb080f5862aabad1eee5/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/aedbf49da82deb080f5862aabad1eee5/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/e84a180c19c497c7bf4f3fe25e33ca31/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/e84a180c19c497c7bf4f3fe25e33ca31/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] /Users/helcorp/.gradle/caches/8.9/transforms/08dc5cc0fa0a2d12c9e82895f4750718/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/helcorp/.gradle/caches/8.9/transforms/08dc5cc0fa0a2d12c9e82895f4750718/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/f92a752a758c8bb59bcf29a071bdf78e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/f92a752a758c8bb59bcf29a071bdf78e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/f7047757002051a38fe8f3822c87e3ee/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/f7047757002051a38fe8f3822c87e3ee/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/6bb9bf3f5876372bf35b9cbb1f0fcd8e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/6bb9bf3f5876372bf35b9cbb1f0fcd8e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/7733810b84404903a4de1fae5b842ad4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/7733810b84404903a4de1fae5b842ad4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/67bb86c423e9834d64760a92933c1a3a/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/67bb86c423e9834d64760a92933c1a3a/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/ba8707e902f72496e748fe8a2878cc86/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/ba8707e902f72496e748fe8a2878cc86/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/4f264c9d14ace83a91056d32e9ea9ad8/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/4f264c9d14ace83a91056d32e9ea9ad8/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/9ab540a14b1ae5e04ecc2b3f845df23c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/9ab540a14b1ae5e04ecc2b3f845df23c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/cfe424f30bcd9dbc0762652b1c4b9391/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/cfe424f30bcd9dbc0762652b1c4b9391/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/1932bb7190027d89875908e53e5faba3/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/1932bb7190027d89875908e53e5faba3/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/helcorp/.gradle/caches/8.9/transforms/6b8baf45fef11838f0b347d53c28bbe5/transformed/ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/helcorp/.gradle/caches/8.9/transforms/6b8baf45fef11838f0b347d53c28bbe5/transformed/ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/helcorp/.gradle/caches/8.9/transforms/1d708446c20e301662a797d65cf6982e/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/helcorp/.gradle/caches/8.9/transforms/1d708446c20e301662a797d65cf6982e/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/0f736743625d7929e4521ff56007fda4/transformed/core-bundle-debug/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/0f736743625d7929e4521ff56007fda4/transformed/core-bundle-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/770ec95bcf3367bcda841d64488a4e56/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/770ec95bcf3367bcda841d64488a4e56/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/1e1fe603a92dda4a3f8f0a58ab3c2be8/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/1e1fe603a92dda4a3f8f0a58ab3c2be8/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/0169d200f2502700780e58426d11436b/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/0169d200f2502700780e58426d11436b/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/a76a3f7c4257406c01ab16450c2e97fd/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/a76a3f7c4257406c01ab16450c2e97fd/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/c20f7a9f28446b0d7e0cc0449c15cb8d/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/c20f7a9f28446b0d7e0cc0449c15cb8d/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/baff3ec7a7ed6e7056c1c5ecbf79a7f5/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/baff3ec7a7ed6e7056c1c5ecbf79a7f5/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/5465cd6b433395d993b343599b6e06ce/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/5465cd6b433395d993b343599b6e06ce/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/d58b544bed967febc31377ce8c19c63c/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/d58b544bed967febc31377ce8c19c63c/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/60dba77798e689e94449e794b3ae4302/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/60dba77798e689e94449e794b3ae4302/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/6ca8c0d5fa9ecd818f7c9f8cd31a1d18/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/6ca8c0d5fa9ecd818f7c9f8cd31a1d18/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/9881d7b5edba6df2e4b518182c1c1420/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/9881d7b5edba6df2e4b518182c1c1420/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/0aa392f1d376bbe91e96c9a26421395c/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/0aa392f1d376bbe91e96c9a26421395c/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/c5ca06d90c9d6b5ae0dba8d8339fdbf8/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/c5ca06d90c9d6b5ae0dba8d8339fdbf8/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/6a18cfa47973e9e7ce5e0bb06865124f/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/6a18cfa47973e9e7ce5e0bb06865124f/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/793003f28bf2555dcbed992903525a64/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/793003f28bf2555dcbed992903525a64/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/a1dc329bca9ce26fbcb7ff24935ce27b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/a1dc329bca9ce26fbcb7ff24935ce27b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/f54feea47d11e445e6e6dfc4950c1ca3/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/f54feea47d11e445e6e6dfc4950c1ca3/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/c812366e36ebc8bf1f2c6f6299279dd8/transformed/datastore-preferences-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/c812366e36ebc8bf1f2c6f6299279dd8/transformed/datastore-preferences-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/616dd3cc8593a93250a6e30cbe4ef624/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/616dd3cc8593a93250a6e30cbe4ef624/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/e5da05af9a8d8273eecd7fb0fc1a077d/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/helcorp/.gradle/caches/8.9/transforms/e5da05af9a8d8273eecd7fb0fc1a077d/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/0d981718aaaad4df8d4b1308cb13364e/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/0d981718aaaad4df8d4b1308cb13364e/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/ac83d37d695d2f03f9c820f27ba1bf53/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/ac83d37d695d2f03f9c820f27ba1bf53/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/05e9a2b5a0d93e84bbc99ab9aaae50e4/transformed/vision-interfaces-16.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/05e9a2b5a0d93e84bbc99ab9aaae50e4/transformed/vision-interfaces-16.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/83e8078cc9a7ce19d695e27168951769/transformed/firebase-installations-interop-17.3.0/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/83e8078cc9a7ce19d695e27168951769/transformed/firebase-installations-interop-17.3.0/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] /Users/helcorp/.gradle/caches/8.9/transforms/cc3fe9f6526566c6a31c0bb653d59538/transformed/play-services-tasks-18.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] /Users/helcorp/.gradle/caches/8.9/transforms/cc3fe9f6526566c6a31c0bb653d59538/transformed/play-services-tasks-18.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/60a618c91973df074b9a307b33e0c879/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/60a618c91973df074b9a307b33e0c879/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/c1733bf447385ed5c942b1fc5a8c4723/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/c1733bf447385ed5c942b1fc5a8c4723/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/8901abac5a43aed54d4efcde88128a67/transformed/play-services-measurement-base-23.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/8901abac5a43aed54d4efcde88128a67/transformed/play-services-measurement-base-23.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/4db1fb1704b15286299ddd2201521596/transformed/play-services-basement-18.9.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/4db1fb1704b15286299ddd2201521596/transformed/play-services-basement-18.9.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.8.3] /Users/helcorp/.gradle/caches/8.9/transforms/449cd7eb89a1c864f4a6a85ed9a3b989/transformed/fragment-1.8.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.3] /Users/helcorp/.gradle/caches/8.9/transforms/449cd7eb89a1c864f4a6a85ed9a3b989/transformed/fragment-1.8.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.3] /Users/helcorp/.gradle/caches/8.9/transforms/ac1103b40ff1c432c2e546a1a85e29b0/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] /Users/helcorp/.gradle/caches/8.9/transforms/ac1103b40ff1c432c2e546a1a85e29b0/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/helcorp/.gradle/caches/8.9/transforms/dbc750589f4910e93b041b4754a73a00/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/helcorp/.gradle/caches/8.9/transforms/dbc750589f4910e93b041b4754a73a00/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/helcorp/.gradle/caches/8.9/transforms/e8e3bca95196d084d291b13aa6e0ac1c/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/helcorp/.gradle/caches/8.9/transforms/e8e3bca95196d084d291b13aa6e0ac1c/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/94f3d05ae3bf7304fd1c75b5340b5f4a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/94f3d05ae3bf7304fd1c75b5340b5f4a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/7a0cfae3420df9c3494f309c3da919a9/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/7a0cfae3420df9c3494f309c3da919a9/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/bf4e515e4bdee82b9121d0aed567fcb4/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/bf4e515e4bdee82b9121d0aed567fcb4/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b984b78f922cc4a4ecc3c326e6101d5/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b984b78f922cc4a4ecc3c326e6101d5/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/a3b8908794d5b0752715060f65d593f3/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/a3b8908794d5b0752715060f65d593f3/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/6204ab5efac3052a93634431b5e0174a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/6204ab5efac3052a93634431b5e0174a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/accd7d850b4778af989ed4cfa9153466/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/accd7d850b4778af989ed4cfa9153466/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/885b609f3eb829fcbb28ac8892f84512/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/885b609f3eb829fcbb28ac8892f84512/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/3c8a67fb51d3c9793e9a40993d34f04e/transformed/firebase-components-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/3c8a67fb51d3c9793e9a40993d34f04e/transformed/firebase-components-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/f70cd6aaf012effdcd312b842a58e9e7/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/f70cd6aaf012effdcd312b842a58e9e7/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/da09063053b5ba93230c39cc4b495d82/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/da09063053b5ba93230c39cc4b495d82/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/faff7375f3ca9e1b7a411d1312a32fe4/transformed/transport-api-3.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/faff7375f3ca9e1b7a411d1312a32fe4/transformed/transport-api-3.1.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/5ebb7873f6c34ab3aa847c011edce300/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/5ebb7873f6c34ab3aa847c011edce300/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/helcorp/.gradle/caches/8.9/transforms/6e150218d08e3f983cce4c8a18719781/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/helcorp/.gradle/caches/8.9/transforms/6e150218d08e3f983cce4c8a18719781/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/a82a901d52ca8663c370e6e316d62300/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/a82a901d52ca8663c370e6e316d62300/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/e3f04653f575a930d270fc943617cf56/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/e3f04653f575a930d270fc943617cf56/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/52fa911082c9fd479381842ac1a286b0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/52fa911082c9fd479381842ac1a286b0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:5:5-7:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/helcorp/.gradle/caches/8.9/transforms/4844b9a6883871f638078cdc2f0b8e7f/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/helcorp/.gradle/caches/8.9/transforms/4844b9a6883871f638078cdc2f0b8e7f/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/helcorp/.gradle/caches/8.9/transforms/23e712f5944806077c8fff52d6d9a5c6/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/helcorp/.gradle/caches/8.9/transforms/23e712f5944806077c8fff52d6d9a5c6/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/helcorp/Downloads/ProyectoMovil/RutasMovil/androidApp/src/main/AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-core:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/dd75f3dbfe07559c4d9ac32c0ec04b5e/transformed/camera-core-1.4.2/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-camera2:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/e965fec76b32525b27c0cf3192db4c15/transformed/camera-camera2-1.4.2/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-camera2:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/e965fec76b32525b27c0cf3192db4c15/transformed/camera-camera2-1.4.2/AndroidManifest.xml:24:9-33:19
+	android:enabled
+		ADDED from [androidx.camera:camera-core:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/dd75f3dbfe07559c4d9ac32c0ec04b5e/transformed/camera-core-1.4.2/AndroidManifest.xml:31:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-core:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/dd75f3dbfe07559c4d9ac32c0ec04b5e/transformed/camera-core-1.4.2/AndroidManifest.xml:32:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-core:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/dd75f3dbfe07559c4d9ac32c0ec04b5e/transformed/camera-core-1.4.2/AndroidManifest.xml:33:13-75
+	android:name
+		ADDED from [androidx.camera:camera-core:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/dd75f3dbfe07559c4d9ac32c0ec04b5e/transformed/camera-core-1.4.2/AndroidManifest.xml:30:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/e965fec76b32525b27c0cf3192db4c15/transformed/camera-camera2-1.4.2/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/e965fec76b32525b27c0cf3192db4c15/transformed/camera-camera2-1.4.2/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.4.2] /Users/helcorp/.gradle/caches/8.9/transforms/e965fec76b32525b27c0cf3192db4c15/transformed/camera-camera2-1.4.2/AndroidManifest.xml:31:17-103
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/0633a54f8bdbd5e3c3104906eaebe2bf/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/410a5a3ad27d1de1395599d14e514804/transformed/vision-common-17.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/410a5a3ad27d1de1395599d14e514804/transformed/vision-common-17.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/0633a54f8bdbd5e3c3104906eaebe2bf/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/0633a54f8bdbd5e3c3104906eaebe2bf/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/0633a54f8bdbd5e3c3104906eaebe2bf/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/0633a54f8bdbd5e3c3104906eaebe2bf/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/0633a54f8bdbd5e3c3104906eaebe2bf/transformed/play-services-mlkit-barcode-scanning-18.3.1/AndroidManifest.xml:13:17-120
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/410a5a3ad27d1de1395599d14e514804/transformed/vision-common-17.3.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/410a5a3ad27d1de1395599d14e514804/transformed/vision-common-17.3.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/410a5a3ad27d1de1395599d14e514804/transformed/vision-common-17.3.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.11.0] /Users/helcorp/.gradle/caches/8.9/transforms/cf2765029c8c4f5b41c4b28f5170ed2b/transformed/common-18.11.0/AndroidManifest.xml:21:17-120
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/helcorp/.gradle/caches/8.9/transforms/0e9853ef7c2664493360adf3453d3c37/transformed/recaptcha-18.6.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/helcorp/.gradle/caches/8.9/transforms/0e9853ef7c2664493360adf3453d3c37/transformed/recaptcha-18.6.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/ac83d37d695d2f03f9c820f27ba1bf53/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/ac83d37d695d2f03f9c820f27ba1bf53/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/f70cd6aaf012effdcd312b842a58e9e7/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/f70cd6aaf012effdcd312b842a58e9e7/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:22:9-28:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/da1f6f180d10193e1a314db29de9da78/transformed/firebase-auth-24.1.0/AndroidManifest.xml:70:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/ac83d37d695d2f03f9c820f27ba1bf53/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/ac83d37d695d2f03f9c820f27ba1bf53/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/ac83d37d695d2f03f9c820f27ba1bf53/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/ac83d37d695d2f03f9c820f27ba1bf53/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:26:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:33:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:34:25-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:38:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:49:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:47:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:50:13-52:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:50:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:51:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:51:25-75
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:57:13-59:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:59:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:58:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:60:13-62:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:62:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.2] /Users/helcorp/.gradle/caches/8.9/transforms/6d484efdaece9af9b76453324fcbfade/transformed/firebase-messaging-25.0.2/AndroidManifest.xml:61:17-119
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/31febe957ff2c5ed45bac11bedd4cb1c/transformed/play-services-measurement-23.2.0/AndroidManifest.xml:40:13-87
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/43282c85509b462eb79df122add1c882/transformed/play-services-measurement-impl-23.2.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/c1733bf447385ed5c942b1fc5a8c4723/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/helcorp/.gradle/caches/8.9/transforms/c1733bf447385ed5c942b1fc5a8c4723/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/3705dfe4c051e20e70e7ec47cce47279/transformed/play-services-measurement-sdk-api-23.2.0/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:27:22-79
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/262dfe7fbfa0fc1228a0f7bce26ad49a/transformed/play-services-measurement-api-23.2.0/AndroidManifest.xml:34:17-139
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/helcorp/.gradle/caches/8.9/transforms/494b535509f15c9f814bb4be174fc77b/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/helcorp/.gradle/caches/8.9/transforms/5f5155b1fa80f94e5382fa09bd7898d7/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/helcorp/.gradle/caches/8.9/transforms/0e9853ef7c2664493360adf3453d3c37/transformed/recaptcha-18.6.1/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/helcorp/.gradle/caches/8.9/transforms/0e9853ef7c2664493360adf3453d3c37/transformed/recaptcha-18.6.1/AndroidManifest.xml:9:22-95
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.1.0] /Users/helcorp/.gradle/caches/8.9/transforms/d84228cd265e75b3a94f1ca82679d1b4/transformed/firebase-installations-19.1.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/helcorp/.gradle/caches/8.9/transforms/35b2ac939be680b32727a56be217cdc3/transformed/firebase-common-22.0.1/AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/eb5691de2dcbcc70c305bfebcbb6f334/transformed/play-services-base-18.9.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/eb5691de2dcbcc70c305bfebcbb6f334/transformed/play-services-base-18.9.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/eb5691de2dcbcc70c305bfebcbb6f334/transformed/play-services-base-18.9.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/eb5691de2dcbcc70c305bfebcbb6f334/transformed/play-services-base-18.9.0/AndroidManifest.xml:20:19-85
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/7d159f7e6af48bd87c1300173e794784/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/7d159f7e6af48bd87c1300173e794784/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/helcorp/.gradle/caches/8.9/transforms/7d159f7e6af48bd87c1300173e794784/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/6ca8c0d5fa9ecd818f7c9f8cd31a1d18/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/6ca8c0d5fa9ecd818f7c9f8cd31a1d18/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/94f3d05ae3bf7304fd1c75b5340b5f4a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/helcorp/.gradle/caches/8.9/transforms/94f3d05ae3bf7304fd1c75b5340b5f4a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/helcorp/.gradle/caches/8.9/transforms/fbf720aeb9e3fd1d0bad4ada7c73500c/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/helcorp/.gradle/caches/8.9/transforms/1d708446c20e301662a797d65cf6982e/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/helcorp/.gradle/caches/8.9/transforms/1d708446c20e301662a797d65cf6982e/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/helcorp/.gradle/caches/8.9/transforms/1d708446c20e301662a797d65cf6982e/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:24:13-50
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.helkore.rutas.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.helkore.rutas.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/helcorp/.gradle/caches/8.9/transforms/3b43d8e6b267e6a607b227e9573a34ba/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/6ca8c0d5fa9ecd818f7c9f8cd31a1d18/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/6ca8c0d5fa9ecd818f7c9f8cd31a1d18/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/helcorp/.gradle/caches/8.9/transforms/6ca8c0d5fa9ecd818f7c9f8cd31a1d18/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/4db1fb1704b15286299ddd2201521596/transformed/play-services-basement-18.9.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/4db1fb1704b15286299ddd2201521596/transformed/play-services-basement-18.9.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.9.0] /Users/helcorp/.gradle/caches/8.9/transforms/4db1fb1704b15286299ddd2201521596/transformed/play-services-basement-18.9.0/AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/helcorp/.gradle/caches/8.9/transforms/3fe7f1d0009fd62e46a4e1dd2d5a0930/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/f70cd6aaf012effdcd312b842a58e9e7/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/f70cd6aaf012effdcd312b842a58e9e7/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/helcorp/.gradle/caches/8.9/transforms/f70cd6aaf012effdcd312b842a58e9e7/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/cade9809bffee5f20e720ac0bb422404/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/helcorp/.gradle/caches/8.9/transforms/c6f35c34f53d5b72d5ddd5d93144a0dd/transformed/transport-runtime-3.1.9/AndroidManifest.xml:33:13-132
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:9:5-12:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:10:9-34
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:15:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:18:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:21:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] /Users/helcorp/.gradle/caches/8.9/transforms/94a0d33a0d7d0c3ae341741ece657356/transformed/osmdroid-android-6.1.18/AndroidManifest.xml:24:9-45
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] /Users/helcorp/.gradle/caches/8.9/transforms/23e712f5944806077c8fff52d6d9a5c6/transformed/core-common-2.0.3/AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/helcorp/.gradle/caches/8.9/transforms/23e712f5944806077c8fff52d6d9a5c6/transformed/core-common-2.0.3/AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/helcorp/.gradle/caches/8.9/transforms/23e712f5944806077c8fff52d6d9a5c6/transformed/core-common-2.0.3/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/helcorp/.gradle/caches/8.9/transforms/23e712f5944806077c8fff52d6d9a5c6/transformed/core-common-2.0.3/AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/helcorp/.gradle/caches/8.9/transforms/23e712f5944806077c8fff52d6d9a5c6/transformed/core-common-2.0.3/AndroidManifest.xml:15:13-93
